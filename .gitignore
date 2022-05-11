@@ -1,0 +1,6 @@
+__pycache__
+.idea
+qnap2.py
+*.png
+*.jsonl
+
