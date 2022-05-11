@@ -3,4 +3,4 @@ __pycache__
 qnap2.py
 *.png
 *.jsonl
-
+*.txt
