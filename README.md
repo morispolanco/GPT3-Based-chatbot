@@ -6,4 +6,4 @@ OpenAI api
 python streamlit
 
 # How to run:
-streamlitm run app.py
+streamlit run app.py
